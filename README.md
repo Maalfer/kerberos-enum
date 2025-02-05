@@ -17,3 +17,5 @@ Al confirmar la existencia del usuario, se puede intentar un ataque de fuerza br
 
 **Kerberoasting**
 Si el usuario identificado corresponde a una cuenta de servicio, se puede solicitar un ticket de servicio para dicho usuario. El hash contenido en el ticket puede extraerse y luego someterse a ataques offline para intentar romper la contraseña.
+
+![image](https://github.com/user-attachments/assets/a473472b-4850-4cad-9781-42eeffb896bb)
